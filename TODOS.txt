@@ -1,0 +1,36 @@
+STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
+0. GONZALO GARCIA MARTINEZ
+1.
+2.Matias Cayllahua Camacho
+3.
+4.
+5.
+6.
+7.Gian Anthony Choque Quispe
+<<<<<<< HEAD
+8.NILSON MUÑOZ  NIFLA
+=======
+8.Nilson Mu
+>>>>>>> d327f220fdbd046462512ada5a4010d033aaffd7
+9.
+10.
+11.
+12.PABLO NUÑONCCA BLANCO
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
