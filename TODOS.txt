@@ -1,6 +1,6 @@
 STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
 0. GONZALO GARCIA MARTINEZ
-1. Quispe Sapa Cris Nataly
+1. Quispe Sapa Cris NatalY
 2.
 1.
 2.Matias Cayllahua Camacho
@@ -11,6 +11,8 @@ STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
 7.Gian Anthony Choque Quispe
 7.Gian Anthony Choque error Quispe
 8.NILSON MUÑOZ  NIFLA
+7.Gian Anthony Choque error Quispe
+8.
 9.
 10.
 11.
