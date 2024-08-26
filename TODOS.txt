@@ -5,7 +5,11 @@ STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
 3.Mauricio Aguilar Valdivia
 4.
 5. Michael Stiven Cahuana Ccopa
+<<<<<<< HEAD
 6.Luciana Rhista Gonzales Valdivia
+=======
+6.LucianaRhistaGonzales Valdivia
+>>>>>>> LUCIANA
 7.Gian Anthony Choque Quispe
 7.Gian Anthony Choque error Quispe
 8.NILSON MUÑOZ  NIFLA
