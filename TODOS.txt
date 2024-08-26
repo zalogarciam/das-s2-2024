@@ -3,7 +3,7 @@ STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
 1. Quispe Sapa Cris NatalY
 2.Matias Cayllahua Camacho
 3.Mauricio Aguilar Valdivia
-4.
+4. Jolaus Andy Meza
 5. Michael Stiven Cahuana Ccopa
 <<<<<<< HEAD
 6.Luciana Rhista Gonzales Valdivia
