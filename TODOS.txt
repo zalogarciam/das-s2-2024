@@ -1,12 +1,9 @@
 STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
 0. GONZALO GARCIA MARTINEZ
-<<<<<<< HEAD
 1. 
 2.
-=======
 1.
 2.Matias Cayllahua Camacho
->>>>>>> main
 3.
 4.
 5.
