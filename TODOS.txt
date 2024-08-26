@@ -2,7 +2,7 @@ STUDENTS - DISENO Y ARQUITECTURA DE SOFTWARE
 0. GONZALO GARCIA MARTINEZ
 1. Quispe Sapa Cris NatalY
 2.Matias Cayllahua Camacho
-3.
+3.Mauricio Aguilar Valdivia
 4.
 5. Michael Stiven Cahuana Ccopa
 6.
